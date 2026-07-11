@@ -1,0 +1,12 @@
+{
+  "name": "vibewriting",
+  "description": "Framework-grounded content-writing plugin: email, memos, and social content grounded in your own methodologies.",
+  "owner": { "name": "rpiplewar" },
+  "plugins": [
+    {
+      "name": "vibewriting",
+      "source": "./",
+      "description": "AI-powered, framework-grounded content workspace: email, memos, and social content grounded in your own methodologies."
+    }
+  ]
+}
