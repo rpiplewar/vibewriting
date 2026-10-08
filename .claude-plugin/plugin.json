@@ -1,0 +1,8 @@
+{
+  "name": "vibewriting",
+  "description": "Framework-grounded content writing. Plans the task, generates multiple options, critiques them, and grounds every draft in your own methodologies (Gap Selling, Munger's bias checklist, decision frameworks).",
+  "version": "0.1.0",
+  "author": { "name": "rpiplewar" },
+  "homepage": "https://github.com/rpiplewar/vibewriting",
+  "keywords": ["writing", "content", "email", "sales", "marketing", "frameworks"]
+}
